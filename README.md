@@ -1,0 +1,2 @@
+# Breast-Cancer-Prediction
+Now a days Breast Cancer is a major threaten to us and identifying the cancer in right time is most crucial for saving life.I have made a model which can Identify wheather the cancer is benign or malignant.I have used different Machine learning algorithm for identifying it and the data is taken from Kaggle website.The best result is given by SVM classifier which gives almost 98.25 % accuracy after applying greedy search on it.The accuracy is checked after applying k-fold cross validation.
